@@ -1,0 +1,17 @@
+ALGORITHM sentance
+VAR
+    str:STRING
+    W,C,V:INTEGER
+    BEGIN
+    write ( write asentance str )
+    read (str)
+    WHILE (step(1) <> ".") DO
+        W=V+1
+        IF (str(1))=("a,e,i,y,u,o") else
+        v=v+1
+        if (c="") else
+        c=c+1
+    
+        END_IF
+    END_WHILE
+END
