@@ -3,13 +3,13 @@ VAR
     str:STRING
     W,C,V:INTEGER
     BEGIN
-    write ( write asentance str )
+    write ( "write asentance str" )
     read (str)
     WHILE (step(1) <> ".") DO
         W=V+1
-        IF (str(1))=("a,e,i,y,u,o") else
+        IF (str(1))=("a","e","i","y","u","o") then
         v=v+1
-        if (c="") else
+        if (c="") then
         c=c+1
     
         END_IF
